@@ -170,9 +170,15 @@
   },
   "active": "b924fc0c4f8af6ef",
   "lastOpenFiles": [
-    "20250306150917.png",
-    "README.md",
+    "target/classes/threadExample/MyThread.class",
+    "target/classes/threadExample/MyRunnable.class",
     "target/classes/threadExample/Main.class",
-    "target/classes/threadExample/MyThread.class"
+    "target/classes/threadExample",
+    "target/classes/org/example/Node.class",
+    "target/classes/org/example/Main.class",
+    "target/classes/org/example",
+    "target/classes/org",
+    "20250306150917.png",
+    "README.md"
   ]
 }
